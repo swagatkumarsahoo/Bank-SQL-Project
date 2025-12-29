@@ -37,3 +37,6 @@ EXEC transfer_money(1001, 1002, 300, 1234);
 
 SELECT * FROM accounts;
 SELECT * FROM transactions;
+
+👨‍💻 Author
+Swagat Kumar Sahoo
